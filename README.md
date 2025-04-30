@@ -25,7 +25,7 @@ An interactive business intelligence dashboard built in Power BI to analyze Spot
 - Custom visuals & KPI cards
 
 ## Preview
-![Dashboard Preview](Spotify Music Analysis - Power BI.png)
+![Dashboard Preview](Spotify.png)
 
 ## Getting Started
 To view this dashboard:
